@@ -1,0 +1,189 @@
+form{
+margin-top:140px;
+border-radius: 20px 20px;
+width:250px;
+background-color:#2874A6;
+opacity:.8;
+padding:20px;
+margin-left:900px;
+font-size:20px;
+}
+input[type=text], select {
+    width:240px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
+input[type=password], select {
+    width:240px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+}
+
+input[type=submit] {
+    width:240px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+#body1{
+	background-image: url("tec.jpg");
+	background-repeat: no-repeat;
+	left: 0;
+    right:0;
+    background-size:100%;
+	position:absolute;
+}
+#a {
+	width:100%;
+	height:70px;
+    background-color:#212F3D;
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+	color:white;
+}
+#a ul {
+  list-style:none;
+}
+#a ul li {
+  color:white;
+  width:130px;
+  text-align:center;
+  float:right;
+  font-size:25px;
+  font-family:Impact, Charcoal, sans-serif;
+}
+#a ul li:hover{
+  color:#3498DB;
+  font-size:23px;
+  transition:all 0.3s;
+}
+#a ul li:hover > ul{
+  display:block;
+}
+img {
+    width: 106px;
+	position:absolute;
+}
+
+#div1 {
+	margin-left:140px;
+	margin-top:100px;
+	width:200px;
+	height:200px;
+    background-color:black;
+	border-radius:20px;
+    position:absolute;
+}
+#div2 {
+	margin-left:540;
+	margin-top:100px;
+	width:200px;
+	height:200px;
+    background-color:black;
+	border-radius:20px;
+    position:absolute;
+}
+#div3 {
+	margin-left:940px;
+	margin-top:100px;
+	width:200px;
+	height:200px;
+    background-color:black;
+	border-radius:20px;
+    position:absolute;
+}
+#div1:hover{
+  background-color:#16A085;
+  transition:all 0.3s;}
+#div2:hover{
+  background-color:#16A085;
+  transition:all 0.3s;}
+#div3:hover{
+  background-color:#16A085;
+  transition:all 0.3s;}
+#name{
+	margin-top:200px;
+	text-align:center;
+	font-size:30px;
+}
+#header1{
+	background-color:#2874A6;
+	color:white;
+	margin-top:70px;
+	font-size:70px;
+	text-align:center;
+	box-shadow: 0px 5px #888888;
+}
+#header1:hover{
+  color:#6C3483;
+  font-size:68px;
+  transition:all 0.3s;}
+#footer{
+	background-color:#212F3D;
+	height:300px;
+	top:1200px;
+	left: 0;
+    right: 0;
+	position:absolute;
+}
+#fheader{
+	font-size:25px;
+	margin-left:30px;
+	color:white;
+}
+#fheader2{
+	font-size:20px;
+	margin-left:30px;
+}
+#vline{
+    border-left: 2px solid black;
+    height: 200px;
+    position: absolute;
+    left: 30%;
+    top: 50;
+}
+#faddress{
+	font-size:25px;
+	margin-left:500px;
+	color:white;
+	margin-top:-100px;
+	
+}
+#faddress2{
+	font-size:20px;
+	margin-left:500px;
+}
+#vline2{
+    border-left: 2px solid black;
+    height: 200px;
+    position: absolute;
+    left: 60%;
+    top: 50;
+}
+#fconnect{
+	font-size:25px;
+	margin-left:900px;
+	color:white;
+	margin-top:-100px;
+	
+}
+#fconnect2{
+	font-size:20px;
+	margin-left:900px;
+}
