@@ -3,7 +3,7 @@ margin-top:140px;
 border-radius: 20px 20px;
 width:250px;
 background-color:#2874A6;
-opacity:.8;
+opacity:.95;
 padding:20px;
 margin-left:900px;
 font-size:20px;
@@ -134,7 +134,7 @@ img {
 #header1:hover{
   color:#6C3483;
   font-size:68px;
-  transition:all 0.3s;}
+  transition:all 1s;}
 #footer{
 	background-color:#212F3D;
 	height:300px;
